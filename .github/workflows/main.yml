@@ -1,0 +1,38 @@
+name: CI
+
+on:
+  push:
+    branches: [ master, sgonz266/testing ]
+  pull_request:
+    branches: [ master ]
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+  
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: recursive
+
+      - name: Run CMake .
+        run: cmake .
+      
+      - name: Build project using Makefile
+        run: make
+      
+      - name: Run all admin tests
+        run: bin/AdminTests
+
+      - name: Run all Ingredient tests
+        run: bin/IngredientTests
+      
+      - name: Run all IngredientStock tests
+        run: bin/IngredientStockTests
+      
+      - name: Run all Date tests
+        run: bin/DateTests
+
+      - name: Run all Customer tests
+        run: bin/CustomerTests
+        

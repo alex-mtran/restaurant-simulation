@@ -1,0 +1,4 @@
+(1) View inventory
+(2) Add to the ingredient stock
+
+(q) Quit

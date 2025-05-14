@@ -1,0 +1,14 @@
+.vscode/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+bin/
+cmake_install.cmake
+lib/libgmock.a
+lib/libgmock_main.a
+lib/libgtest.a
+lib/libgtest_main.a
+src/CMakeFiles/
+src/Makefile
+src/bin/
+src/cmake_install.cmake

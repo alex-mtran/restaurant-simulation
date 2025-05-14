@@ -1,0 +1,5 @@
+(1) Open restaurant
+(2) Close restaurant
+(3) Shutdown restaurant for good
+
+(q) Quit

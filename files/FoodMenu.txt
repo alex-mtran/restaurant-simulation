@@ -1,0 +1,42 @@
+    PIZZA
+ - Cheese Pizza                              $25.99
+    * Simple, yet simply delicious. 
+    Real cheese made by real ones.
+ - Pepperoni Pizza                           $25.99
+    * With a pepperoni in almost every bite,
+    it's one of our most popular pizzas.
+ - Combo Pizza                               $26.99
+    * Epicness is now even easier.
+    Indulge in a combination of all
+    your favorite toppings.
+
+
+    PASTA
+ - Shrimp Fettuccine Alfredo                 $21.99
+    * Creamy alfredo sauce made from scratch,
+    served with fettuccine pasta and topped
+    with sautéed shrimp. So real.
+ - Spaghetti and Meatballs                   $19.99
+    * Spaghetti and meatballs; an American
+    classic inspired by the Italians.
+    Need I say more?
+ - Chicken Pesto                             $20.99
+    * This isn't just any old basic
+    weeknight chicken dinner. This is Al Dente
+    Amore's rendition served al dente amore.
+
+
+    SALAD
+ - House Salad                               $12.99
+    * Our famous house salad served with our
+    secret sauce. Astounding.
+ - Southwest Cobb Salad                      $11.99
+    * Fresh. Timeless. Classic.
+ - Chicken Caesar Salad                      $13.99
+    * A salad Caesar would rise from the
+    dead to taste.
+
+    DRINKS
+ - Coke                                      $2.99
+ - Lemonade                                  $2.99
+ - Margarita                                 $4.99

@@ -1,0 +1,9 @@
+(1) View food menu
+(2) Add item to cart
+(3) Remove item from cart
+(4) Change item quantity
+(5) Print total of cart
+(6) View Item Description
+(7) View cart
+
+(q) Finish ordering
